@@ -1,4 +1,5 @@
-# Previsão de incêndios florestais usando aprendizado de máquina ---
+# Previsão de incêndios florestais usando aprendizado de máquina
+________________________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/63373520/146952916-17cb711b-1f59-44c0-ac4c-a3a995354919.png)
 
 **Introdução**
